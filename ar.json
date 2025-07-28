@@ -194,7 +194,7 @@
 			"option-mobile-quick-ribbon-default": "فتح قائمة الشريط",
 			"button-configure": "هيئ",
 			"option-show-ribbon": "إظهار الشريط",
-      "option-show-ribbon-desc": "أظهر شريط الأدوات العمودي على جانب النافذة.",
+      			"option-show-ribbon-desc": "أظهر شريط الأدوات العمودي على جانب النافذة.",
 			"label-additional-ribbon-items": "عناصر أخرى للشريط",
 			"label-modal-configuration": "تهيئة الشريط",
 			"label-modal-configuration-desc": "اختر العناصر التي تريد أن تكون نشطة في الشريط. اسحب وأفلت لتغيير الترتيب.",
